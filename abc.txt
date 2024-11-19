@@ -1,4 +1,9 @@
 
 abfasdfa
+<<<<<<< HEAD
 fffhj
 adk2
+=======
+ffbb
+adk2
+>>>>>>> 1118a41a980be1de55a9c6d163f26a98bba1c112
